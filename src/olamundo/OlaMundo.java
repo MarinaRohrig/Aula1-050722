@@ -3,7 +3,9 @@
 package olamundo;
 
 public class OlaMundo {
-    public static void main(String[] args){
-
+    public static void main(String[] args) {
+        System.out.print("Esse deve ser o 1000000 olah mundo que escrevo hahaha");
+        // A emocao de todo ola mundo eh a mesma
     }
+
 }

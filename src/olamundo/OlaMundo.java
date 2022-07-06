@@ -4,7 +4,9 @@ package olamundo;
 
 public class OlaMundo {
     public static void main(String[] args) {
-        System.out.print("Esse deve ser o 1000000 olah mundo que escrevo hahaha");
+        System.out.println("Esse deve ser o 1000000 olah mundo que escrevo hahaha");
+        // O println quebra a linha após o print
+        System.out.print("Ola, mundo! \n ");
         // A emocao de todo ola mundo eh a mesma
     }
 
